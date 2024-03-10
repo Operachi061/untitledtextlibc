@@ -1,5 +1,8 @@
 ### UntitledTextlibc is a simple portable C library.
 
+Goal of this is a full compatibility with posix, minimalism and speed.
+
+## TODO
 - [x] stddef.h
 - [ ] stdio.h
 - [ ] stdlib.h
