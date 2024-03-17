@@ -1,4 +1,4 @@
-### UntitledTextlibc is a simple portable C library.
+### UntitledTextlibc is a simple portable C library. Part of UntitledTextPack.
 
 Goal of this libc is a full compatibility with posix, minimalism and speed.
 
